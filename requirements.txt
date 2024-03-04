@@ -1,0 +1,15 @@
+accelerate==0.27.2
+datasets==2.16.1
+dill==0.3.7
+evaluate==0.4.1
+fsspec==2023.10.0
+huggingface-hub==0.20.3
+mkl-service==2.4.0
+multiprocess==0.70.15
+protobuf==3.20.3
+responses==0.18.0
+torch==2.2.0
+torchaudio==2.2.0
+torchvision==0.17.0
+transformers==4.38.2
+triton==2.2.0
