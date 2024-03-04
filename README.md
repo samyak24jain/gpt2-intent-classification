@@ -1,9 +1,11 @@
-# GPT2 causal language modeling and intent classification.
+# GPT2: Causal LM and Intent Classification
 
 This repository has the code for the following tasks:
-1. Prepare WikiText-2 dataset for causal language modeling.
-2. Pre-train GPT-2 on WikiText-2 dataset for the causal language modeling task.
-3. Fine-tune the model for intent classification on movie utterances - core relations dataset.
+1. Pre-training GPT-2 for the causal language modeling task.
+2. Fine-tuning GPT-2 for the intent classification task.
+
+- Pre-training dataset: WikiText-2
+- Fine-tuning dataset: Movie utterances - core relations dataset.
 
 ### Requirements
 ```
